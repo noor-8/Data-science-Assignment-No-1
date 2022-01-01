@@ -1,0 +1,4 @@
+2. write a python program to get the python version you are using
+
+import sys
+print(sys.version)
